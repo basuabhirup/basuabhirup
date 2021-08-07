@@ -5,8 +5,9 @@
 ### I'm Abhirup, a passionate programmer & front-end developer.
 <!--   
    -->
-  
-  :computer: I’m currently working on becoming a Full Stack Developer  
+  :boy: I’m currently working as a freelancer for startups and small to medium-sized enterprises.  
+  :computer: I have experience in building customisable, interactive & responsive websites & landing pages.  
+  :hand: I can build from scratch a full-fledged functional website for your business or personal requirement.  
   ___
 
 ## Skills currently in my Pocket
@@ -32,18 +33,14 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![ReacjJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
   ___  
-  
-</div>
-  
-  :boy: I’m currently working as a freelancer for startups and small to medium-sized enterprises.  
-  :computer: I have experience in building customisable, interactive & responsive websites & landing pages.  
-  :hand: I can build from scratch a full-fledged functional website for your business or personal requirement.  
-  
+    
   
 ## Contact Me
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/basu-abhirup/)
   [![Twitter](https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/basu_abhirup27)
 
+  
+</div>
 
 
 
