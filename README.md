@@ -5,9 +5,10 @@
 ### I'm Abhirup, a passionate programmer & front-end developer.
 <!--   
    -->
-  :boy: I’m currently working as a freelancer for startups and small to medium-sized enterprises.  
-  :computer: I have experience in building customisable, interactive & responsive websites & landing pages.  
+  :boy: I’m a freelance web developer working for startups and small to medium-sized enterprises.  
+  :sparkles: I'm experienced in building customisable, interactive, user-friendly, responsive websites & landing pages.  
   :hand: I can build from scratch a full-fledged functional website for your business or personal requirement.  
+  :zap: I'm Upgrading my skill-set constantly to serve you better & presently working on becoming a Full Stack (MERN) developer.
   ___
 
 ## Skills currently in my Pocket
