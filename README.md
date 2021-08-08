@@ -7,7 +7,7 @@
    -->
   :boy: I’m a freelance web developer working for startups and small to medium-sized enterprises.  
   :sparkles: I'm experienced in building customisable, interactive, user-friendly, responsive websites & landing pages.  
-  :hand: I can build from scratch a full-fledged functional website for your business or personal requirement.  
+  :hand: I can build from scratch full-fledged functional websites for your business or personal requirements.  
   :zap: I'm Upgrading my skill-set constantly to serve you better & presently working on becoming a Full Stack (MERN) developer.
   ___
 
