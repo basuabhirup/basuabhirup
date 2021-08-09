@@ -37,20 +37,10 @@
     
   
 ## Contact Me
+  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/basu_abhirup)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/basu-abhirup/)
   [![Twitter](https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/basu_abhirup27)
 
   
 </div>
 
-
-
-<!-- - 
-- 🌱 I’m currently learning Databases, SQL & MongoDB
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-             -->
