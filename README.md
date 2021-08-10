@@ -5,7 +5,7 @@
 ### I'm Abhirup, a passionate programmer & front-end developer.
 <!--   
    -->
-  :boy: I’m a freelance web developer working for startups and small to medium-sized enterprises.  
+  :boy: I’m a freelance web developer working for startups and small to medium-sized businesses.  
   :sparkles: I'm experienced in building customisable, interactive, user-friendly, responsive websites & landing pages.  
   :hand: I can build from scratch full-fledged functional websites for your business or personal requirements.  
   :zap: I'm upgrading my skill-set constantly to serve you better & presently working on becoming a Full Stack (MERN) developer.
@@ -22,6 +22,7 @@
   [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/about/)
   [![ExpreessJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/)
   [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://netlify.app/)
+  [![Vercel](https://img.shields.io/badge/Vercel-cccccc?style=for-the-badge&logo=Vercel&logoColor=000000)](https://vercel.com/)
   [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/what) 
   ___
   
