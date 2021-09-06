@@ -27,6 +27,9 @@
   [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/about/)
   [![ExpreessJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/)
   
+   ### Database:
+  [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+  
   ### Deployment tools:
   [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/what) 
   [![Vercel](https://img.shields.io/badge/Vercel-cccccc?style=for-the-badge&logo=Vercel&logoColor=000000)](https://vercel.com/)
@@ -39,12 +42,8 @@
   
   
 ## Skills I'm currently working with
-  ### Front-end framework:
-  [![ReacjJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
   
-  ### Databases:
-  [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/index.html)
-  [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+  [![ReacjJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
   ___  
     
   
