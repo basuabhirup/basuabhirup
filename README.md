@@ -5,12 +5,12 @@
 ### I'm Abhirup, a passionate programmer and web developer.
 <!--   
    -->
-  :heavy_check_mark: I’m presently available to collaborate on MongoDB, NodeJS and ExpressJS based open-source projects.  
+  :heavy_check_mark: I’m presently available to collaborate on MongoDB, NodeJS, ExpressJS or EJS based open-source projects.  
   :hand: I can build from scratch a full-fledged functional website or web app for your business or personal requirements.  
   :zap: I'm upgrading my skill-set constantly to serve you better & presently working on becoming a Full Stack (MERN) developer.
   ___
 
-## Skills currently in my Pocket
+### Skills in my Pocket:
   
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,13 +29,13 @@
   ___
     
   
-## Skills I'm currently working with
+### Skills I'm working with:
   
   [![ReacjJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
   ___  
     
   
-## Contact Me
+### Contact Me:
 <!--   [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/basu_abhirup) -->
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/basu-abhirup/)
   [![Twitter](https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/basu_abhirup27)
