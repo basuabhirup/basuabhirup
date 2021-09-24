@@ -25,7 +25,7 @@
   [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/about/)
   [![ExpreessJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/)
   [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-  [![PassportJS](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white)](https://www.mongodb.com/)
+  [![PassportJS](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white)](https://www.passportjs.org/)
   [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/what) 
 <!--   [![Vercel](https://img.shields.io/badge/Vercel-cccccc?style=for-the-badge&logo=Vercel&logoColor=000000)](https://vercel.com/)
   [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://netlify.app/) -->
