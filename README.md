@@ -5,9 +5,9 @@
 ### I'm Abhirup, a passionate programmer and web developer.
 <!--   
    -->
-  :heavy_check_mark: I'm proficieent in HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS and MongoDB.  
+  :heavy_check_mark: I'm proficient in HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS and MongoDB.  
   :hand: I can build from scratch a full-fledged web application for your business or personal requirements.  
-  :zap: I'm upgrading my skill-set continuously to serve you better & presently working on becoming a Full Stack (MERN) developer.
+  :zap: I'm upgrading my skill-set to serve you better & presently working on becoming a Full Stack (MERN) developer.
   ___
 
 ### Skills in my Pocket:
