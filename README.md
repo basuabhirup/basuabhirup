@@ -4,9 +4,9 @@
 
 - Passionate about crafting exceptional digital experiences
 - 2+ years of experience in TypeScript, React.js, Node.js, GraphQL, Prisma, Mongoose, WebSocket, and more
-- Currently building 
-  - :globe_with_meridians: [WebD BY AB](https://webdbyab.com/)
-  - :speech_balloon: Skillset in Next.js framework
+- Currently building -
+  - :globe_with_meridians: [WebD BY AB](https://webdbyab.com)
+  - :speech_balloon: Skillset in [Next.js](https://nextjs.org) framework
   - :computer: [A project together?](mailto:basu.abhirup27@gmail.com) 
   
   Let's team up to build something amazing together! Please take a moment to explore my Github profile and check out my portfolio.
