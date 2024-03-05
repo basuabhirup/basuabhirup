@@ -3,7 +3,7 @@
 ### I'm Abhirup, your go-to developer buddy
 
 - Passionate about crafting exceptional digital experiences
-- 2+ years of experience in TypeScript, React.js, Node.js, GraphQL, Prisma, Mongoose, WebSocket, and more
+- 2.5 years of experience in TypeScript, React.js, Node.js, GraphQL, Prisma, Mongoose, WebSocket, and more
 - Currently building -
   - :globe_with_meridians: [WebD BY AB](https://webdbyab.com)
   - :speech_balloon: Skillset in [Next.js](https://nextjs.org) framework
