@@ -31,14 +31,14 @@
   [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/)
   [![Prisma](https://img.shields.io/badge/PRISMA-07314D?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
   [![Apollo GraphQL](https://img.shields.io/badge/graphql-311C87?style=for-the-badge&logo=apollographql&logoColor=white)](https://www.apollographql.com/)
+
+
+  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basuabhirup&hide=jupyter%20notebook&theme=tokyonight)
   ___
     
   
-<!-- ### Skills I'm working with:
-  
- 
-  ___  
-     -->
+
   
 ### Contact Me:
 <!--   [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/basu_abhirup) -->
