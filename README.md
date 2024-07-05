@@ -33,8 +33,11 @@
   [![Apollo GraphQL](https://img.shields.io/badge/graphql-311C87?style=for-the-badge&logo=apollographql&logoColor=white)](https://www.apollographql.com/)
 
 
+
+ ![Top Langs](https://github-readme-stats-chi-sand.vercel.app/api/top-langs/?username=basuabhirup&hide=jupyter%20notebook&theme=tokyonight) 
+ ![Stats](https://github-readme-stats-chi-sand.vercel.app/api?username=basuabhirup&theme=tokyonight)
   
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basuabhirup&hide=jupyter%20notebook&theme=tokyonight)
+
   ___
     
   
