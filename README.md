@@ -18,7 +18,7 @@
   [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
   [![Shadcn UI](https://img.shields.io/badge/shadcn%20ui-20232A?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
-  [![Next UI](https://img.shields.io/badge/next%20ui-000000?style=for-the-badge&logo=nextui&logoColor=white)](https://ui.shadcn.com/)
+  [![Next UI](https://img.shields.io/badge/next%20ui-000000?style=for-the-badge&logo=nextui&logoColor=white)](https://nextui.org/)
   [![SASS/SCSS](https://img.shields.io/badge/SASS/SCSS-CD6799?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
