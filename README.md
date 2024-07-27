@@ -6,7 +6,7 @@
 - **3+ years of experience** in TypeScript, React.js, Next.js, Node.js, GraphQL, Prisma, WebSocket, and more
 - :computer: Open for collaboration on [new projects](mailto:basu.abhirup27@gmail.com)
   
-  Let's team up to build something amazing together! Please take a moment to explore my Github profile and check out my portfolio.
+  Let's team up to build something amazing together!
   ___
 
 ### Skills in my Pocket:
