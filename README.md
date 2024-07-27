@@ -3,10 +3,8 @@
 ### I'm Abhirup, your go-to developer buddy
 
 - **Passionate about crafting exceptional digital experiences**
-- **3+ years of experience** in TypeScript, React.js, Node.js, GraphQL, Prisma, WebSocket, and more
-- **Currently enhancing my skill set** with the [Next.js](https://nextjs.org) framework
+- **3+ years of experience** in TypeScript, React.js, Next.js, Node.js, GraphQL, Prisma, WebSocket, and more
 - :computer: Open for collaboration on [new projects](mailto:basu.abhirup27@gmail.com)
-- :mag: Actively seeking **full-time positions** where I can leverage my expertise in a collaborative environment
   
   Let's team up to build something amazing together! Please take a moment to explore my Github profile and check out my portfolio.
   ___
