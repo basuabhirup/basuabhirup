@@ -2,12 +2,14 @@
   
 ### I'm Abhirup, your go-to developer buddy
 
-- **Passionate about crafting exceptional digital experiences**
+- Passionate about crafting exceptional digital experiences
 - **3+ years of experience** in TypeScript, React.js, Next.js, Node.js, GraphQL, Prisma, WebSocket, and more
 - :computer: Open for collaboration on [new projects](mailto:basu.abhirup27@gmail.com)
   
+<br> 
+
   Let's team up to build something amazing together!
-  ___
+ <!-- ___
 
 ### Skills in my Pocket:
   
@@ -35,9 +37,9 @@
 
   
  ![Top Langs](https://github-readme-stats-chi-sand.vercel.app/api/top-langs/?username=basuabhirup&hide=jupyter%20notebook&theme=tokyonight)
- <!-- ![Stats](https://github-readme-stats-chi-sand.vercel.app/api?username=basuabhirup&theme=tokyonight) -->
+ ![Stats](https://github-readme-stats-chi-sand.vercel.app/api?username=basuabhirup&theme=tokyonight)
 
-  <!--  
+
 ### Contact Me:
  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/basu_abhirup)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/basu-abhirup/)
