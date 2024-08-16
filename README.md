@@ -9,9 +9,14 @@
 <br> 
 
   Let's team up to build something amazing together!
-  ___
 
-<!--
+<br>
+
+![Top Langs](https://github-readme-stats-chi-sand.vercel.app/api/top-langs/?username=basuabhirup&hide=jupyter%20notebook&theme=tokyonight)
+<!-- ![Stats](https://github-readme-stats-chi-sand.vercel.app/api?username=basuabhirup&theme=tokyonight) -->
+___
+
+<!-- 
 ### Skills in my Pocket:
   
   [![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
@@ -34,14 +39,10 @@
   [![Apollo GraphQL](https://img.shields.io/badge/graphql-311C87?style=for-the-badge&logo=apollographql&logoColor=white)](https://www.apollographql.com/)
   
  ___
--->
-
-  
- ![Top Langs](https://github-readme-stats-chi-sand.vercel.app/api/top-langs/?username=basuabhirup&hide=jupyter%20notebook&theme=tokyonight)
-<!-- ![Stats](https://github-readme-stats-chi-sand.vercel.app/api?username=basuabhirup&theme=tokyonight) -->
+ -->
 
 
 ### Contact Me:
  <!-- [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/basu_abhirup) -->
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/basu-abhirup/)
-  [![Twitter](https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/basu_abhirup27)
+  [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/basu_abhirup27)
