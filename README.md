@@ -1,4 +1,4 @@
-# Hello there 👋 Welcome to my page :innocent:
+# Hello there 👋 Welcome to my profile :innocent:
   
 ### I'm Abhirup, your go-to developer buddy
 
@@ -12,10 +12,9 @@
 
 <br>
 
-<!-- ![Top Langs](https://github-readme-stats-chi-sand.vercel.app/api/top-langs/?username=basuabhirup&hide=jupyter%20notebook&theme=tokyonight)
-![Stats](https://github-readme-stats-chi-sand.vercel.app/api?username=basuabhirup&theme=tokyonight)
+![Top Langs](https://github-readme-stats-chi-sand.vercel.app/api/top-langs/?username=basuabhirup&hide=jupyter%20notebook&theme=tokyonight)
+<!--  ![Stats](https://github-readme-stats-chi-sand.vercel.app/api?username=basuabhirup&theme=tokyonight) -->
 ___
--->
 <!-- 
 ### Skills in my Pocket:
   
