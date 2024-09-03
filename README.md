@@ -9,10 +9,10 @@
 <br> 
 
   Let's team up to build something amazing together!
-
+<!--
 <br>
 
-<!--  ![Top Langs](https://github-readme-stats-chi-sand.vercel.app/api/top-langs/?username=basuabhirup&hide=jupyter%20notebook&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats-chi-sand.vercel.app/api/top-langs/?username=basuabhirup&hide=jupyter%20notebook&theme=tokyonight)
   ![Stats](https://github-readme-stats-chi-sand.vercel.app/api?username=basuabhirup&theme=tokyonight) 
 ___ -->
 <!-- 
@@ -40,8 +40,8 @@ ___ -->
  ___
  -->
 
-
+<!--
 ### Contact Me:
- <!-- [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/basu_abhirup) -->
+ [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/basu_abhirup) 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/basu-abhirup/)
-  [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/basu_abhirup27)
+  [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/basu_abhirup27) -->
