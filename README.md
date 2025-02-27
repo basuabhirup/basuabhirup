@@ -1,14 +1,19 @@
-# Hello there 👋 Welcome to my profile :innocent:
-  
-### I'm Abhirup, your go-to developer buddy
+# Hi there 👋 I'm Abhirup 
 
-- Passionate about crafting exceptional digital experiences
-- **3+ years of experience** in TypeScript, React.js, Next.js, Node.js, GraphQL, Prisma, WebSocket, and more
-- :computer: Open for collaboration on [new projects](mailto:basu.abhirup27@gmail.com)
-  
-<br> 
+Welcome to my GitHub! I'm a full-stack developer who loves building useful things for the web.
 
-  Let's team up to build something amazing together!
+- I enjoy creating smooth, efficient digital experiences
+- Lately, I've been having fun with AI and chatbots
+- My toolbox includes:
+   - TypeScript, React.js, Next.js, Node.js
+   - GraphQL, Prisma, WebSockets, REST APIs
+   - Some AI/ML tools when they come in handy
+
+- I'm always learning and tinkering with new tech
+
+- Feel free to reach out if you want to collaborate or just chat about code!
+
+Let's build something cool together!
 <!--
 <br>
 
