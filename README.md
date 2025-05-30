@@ -14,12 +14,12 @@ Welcome to my GitHub! I'm a full-stack developer who loves building useful thing
 - Feel free to reach out if you want to collaborate or just chat about code!
 
 Let's build something cool together!
-<!--
+
 <br>
 
   ![Top Langs](https://github-readme-stats-chi-sand.vercel.app/api/top-langs/?username=basuabhirup&hide=jupyter%20notebook&theme=tokyonight)
   ![Stats](https://github-readme-stats-chi-sand.vercel.app/api?username=basuabhirup&theme=tokyonight) 
-___ -->
+___
 <!-- 
 ### Skills in my Pocket:
   
